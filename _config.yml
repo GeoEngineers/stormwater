@@ -13,16 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Industrial Stormwater
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/stormwater" # the subpath of your site, e.g. /blog
-url: "https://geoengineers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+   The Industrial Stormwater Community of Interest (ISCOI) is a partnership of people
+   whose objective it is help reduce stormwater pollution from industrial activities
+   by providing support to industrial facilities working to meet challenging stormwater
+   requirements. The ISCOI provides support through regulatory and technical assistance
+   and community outreach. Our long-term goal is to improve water quality in the
+   Puyallup River Watershed, starting in the Tacoma Tideflats and expanding into
+   South Tacoma/Nalley Valley.
+# baseurl: "/stormwater" # the subpath of your site, e.g. /blog
+url: "https://geoengineers.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# We'll need a different hostname and subpath when we deploy
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 markdown: kramdown
