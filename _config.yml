@@ -27,13 +27,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://geoengineers.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # We'll need a different hostname and subpath when we deploy
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username: zeigert
+github: [metadata]
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-bootstrap
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
+  - jekyll-seo-tag
+show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

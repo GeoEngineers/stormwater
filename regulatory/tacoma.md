@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Regulatory Assistance - City of Tacoma
 permalink: /regulatory/tacoma
 ---

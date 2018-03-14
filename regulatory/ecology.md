@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Regulatory Assistance - Washington State Department of Ecology
 permalink: /regulatory/ecology
 ---

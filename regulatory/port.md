@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Regulatory Assistance - Port of Tacoma
 permalink: /regulatory/port
 ---
