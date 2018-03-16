@@ -1,9 +1,48 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+// @import "jekyll-theme-minimal";
 @import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,500,600');
+@import 'bootstrap.min.css';
+@import 'pwi_bootstrap.css';
+@import 'pwi_bootstrap.custom.css';
 
-h1, h2 {
-	// color: #f00;
+body {
+	margin: 0
+}
+
+.primary-content section {
+	background-color: #fff;
+}
+
+@media (min-width: 768px) {
+	.social-icons-sprite a {
+		background: #1584cc url(/assets/img/pwi_white_social.png) 0 0 no-repeat;
+	}
+	.social-icons-sprite a:hover {
+		background: #333333 url(/assets/img/images/pwi_white_social.png) 0 0 no-repeat;
+	}
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #ffffff;
+}
+
+@media (min-width: 1500px) {
+
+	.jumbotron_coi_industrial_stormwater {
+		background-image: url(/assets/img/pwi_feature_industrial_stormwater1950.jpg);
+	}
+
+}
+
+.jumbotron_coi_industrial_stormwater {
+	background-image: url(/assets/img/pwi_feature_industrial_stormwater992.jpg);
+}
+
+@media (min-width: 768px) {
+
+	.jumbotron_coi_industrial_stormwater {
+		background-image: url(/assets/img/pwi_feature_industrial_stormwater_gray.jpg);
+	}
 }

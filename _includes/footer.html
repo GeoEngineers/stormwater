@@ -1,0 +1,29 @@
+<footer class="panel-footer text-center">
+  <div class="container">
+	<div class="row">
+	  <div class="col-xs-12">
+		  <ul class="list-inline">
+		  <li class="footer-list-item"><a href="index.cfm?fuseaction=page.viewPage&amp;pageID=4&amp;nodeID=1">Home</a></li>
+		  <li class="footer-list-item"><a href="index.cfm?fuseaction=page.viewPage&amp;pageID=539&amp;nodeID=1">Contact Us</a> </li>
+			  <li class="footer-list-item"><a href="#">Privacy Policy </a></li>
+		  <li class="footer-list-item-borderless"><a href="#">© 2018</a></li>
+		  </ul>
+	  </div>
+	</div>
+  </div>
+</footer>
+<script
+	  src="https://code.jquery.com/jquery-1.12.4.min.js"
+	  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+	  crossorigin="anonymous"></script>
+<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+<script><!--accordion js-->
+	function toggleIcon(e) {
+		$(e.target)
+			.prev('.panel-heading')
+			.find(".more-less")
+			.toggleClass('glyphicon-plus glyphicon-minus');
+	}
+	$('.panel-group').on('hidden.bs.collapse', toggleIcon);
+	$('.panel-group').on('shown.bs.collapse', toggleIcon);
+</script>

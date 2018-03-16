@@ -1,0 +1,17 @@
+- title: "Home"
+  href: "/"
+
+- title: "About"
+  href: "/about/"
+
+- title: "Regulatory"
+  href: "/regulatory/index"
+  subcategories:
+    - subtitle: "Washington State Department of Ecology"
+      subhref: "/regulatory/ecology/"
+    - subtitle: "Port of Tacoma"
+      subhref: "/regulatory/port/"
+    - subtitle: "City of Tacoma"
+      subhref: "/regulatory/tacoma/"
+    - subtitle: "Puyallup Indian Tribe"
+      subhref: "/regulatory/tacoma/"

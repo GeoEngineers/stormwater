@@ -1,0 +1,13 @@
+<ul class='wrapper'>
+	{% for category in site.data.nav %}
+		{% if category.subcategories != null %}
+			<li>
+				<a href="{{ site.url }}{{ category.href }}" >{{ category.title }}</a>
+			<ul>
+				{% for subcategory in category.subcategories %}
+				       <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+				{% endfor %}
+		{% else %}
+		  <li><a href="{{ site.url }}{{ category.href }}">{{ category.title }}</a>{% endif %}</li>
+	{% endfor %}
+</ul>
