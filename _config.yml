@@ -32,7 +32,8 @@ github: [metadata]
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll-theme-bootstrap
+theme: jekyll-theme-bootstrap
+# remote_theme: jekyll-theme-bootstrap
 plugins:
   # - jekyll-feed
   - jekyll-seo-tag
