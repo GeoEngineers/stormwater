@@ -34,11 +34,11 @@ sections:
   focus_2_image_alt: Industrial Outreach
   focus_2_title: Technical assistance
   focus_2_copy: Here you can find effective stormwater best management practices (BMPs), case studies, and helpful ideas from other businesses.
-  focus_2_link:
+  focus_2_link: /technical/
   focus_3_image: assets/img/community250.jpg
   focus_3_image_alt: Kajaker
   focus_3_title: Community action
   focus_3_copy: A better informed community can also help make great strides in cleaning up our water. Empowering people of the Watershed with ideas, tools and programs to improve homeowner stormwater is a win for all.
-  focus_3_link:
+  focus_3_link: /community/
 
 ---

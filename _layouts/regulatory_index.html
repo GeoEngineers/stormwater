@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body data-spy="scroll" data-target=".navbar-default">
+	{% include nav.html %}
+	<div id="primary-content" class="c1">
+		<section>
+			{% include jumbotron.html %}
+		</section>
+		<section>
+			<div class="container-fluid background-blue-container2 neg-voffset-top-30">
+				<div class="row">
+					{% include left_bar.html %}
+					<div class="col-xs-12 col-md-10 background-white">
+						<!-- main section -->
+						<div class="row side-padding4">
+							<div class="col-xs-12 col-md-8 side-padding5 voffset-bottom-55">
+								{{ content }}
+							</div>
+							<div class="col-xs-12 col-md-4 side-padding4">
+								<div class="col-xs-12">
+									<!-- Replace content below this comment. -->
+									<div>
+										<h2 style="text-align: left;">Resources</h2>
+										<ol style="text-align: left;">
+											{% for link in page.sections['resource_links'] %}
+												<li>{{link | markdownify }}</li>
+											{% endfor %}
+										</ol>
+										<!-- Replace content above this comment. -->
+									</div>
+								</div>
+							</div>
+						</div>
+						{% for org in page.sections['organizations'] %}
+							<!-- {{ org | jsonify }} -->
+							<div class="row side-padding4">
+								<div class='col-xs-12 col-md-8 side-padding5 voffset-bottom-55'>
+									<h2>{{org.title}}</h2>
+									<p>{{org.copy | markdownify }}</p>
+								</div>
+								<div class='col-xs-12 col-md-4'>
+									<img src="{{org.image}}">
+								</div>
+							</div>
+						{% endfor %}
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	{% include footer.html %}
+  </body>
+</html>

@@ -48,7 +48,11 @@ body {
 		background-image: url({{site.base_url}}/assets/img/pwi_feature_industrial_stormwater_gray.jpg);
 	}
 }
+//
+// .landing-links {
+// 	background-color: rgb(84, 143, 196)
+// }
 
-.landing-links {
-	background-color: rgb(84, 143, 196)
+div.col-md-10:nth-child(2) {
+	padding-bottom: 0;
 }

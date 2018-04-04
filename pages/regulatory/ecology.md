@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: regulatory
 title: Regulatory Assistance - Washington State Department of Ecology
 permalink: /regulatory/ecology
+contents:
+  image: /assets/img/ecology_map.png
 ---
 
-### Washington State Department of Ecology Industrial Stormwater Permits
+## Washington State Department of Ecology Industrial Stormwater Permits
 
 Facilities that perform industrial activities as defined by Ecology (Ecology 2014) are required to apply for and obtain coverage under one of the following Ecology permits for management of industrial stormwater:
 
@@ -22,5 +24,3 @@ Industrial activities that are required to obtain coverage under one of these pe
 - Any facility identified by Ecology as a significant contributor of pollutants.
 
 Facilities performing industrial activities that are not defined as boatyards or sand and gravel operations or who are not required by Ecology to obtain coverage under an individual permit are required to obtain coverage under the ISGP.  Industrial activities requiring an ISGP is based on the facilities Standard Industrial Classification (SIC) Codes identified in the ISGP. An explanation of SIC codes is provided here. The requirements of specific components of the ISGP are further described here.
-
-> ![image_of_washington_area]()
