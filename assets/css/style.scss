@@ -18,10 +18,10 @@ body {
 
 @media (min-width: 768px) {
 	.social-icons-sprite a {
-		background: #1584cc url({{site.base_url}}/assets/img/pwi_white_social.png) 0 0 no-repeat;
+		background: #1584cc url({{'/assets/img/pwi_white_social.png' | absolute_url }}) 0 0 no-repeat;
 	}
 	.social-icons-sprite a:hover {
-		background: #333333 url({{site.base_url}}/assets/img/pwi_white_social.png) 0 0 no-repeat;
+		background: #333333 url({{'/assets/img/pwi_white_social.png' | absolute_url }}) 0 0 no-repeat;
 	}
 }
 
@@ -32,20 +32,20 @@ body {
 @media (min-width: 1500px) {
 
 	.jumbotron_coi_industrial_stormwater {
-		background-image: url({{site.base_url}}/assets/img/pwi_feature_industrial_stormwater1950.jpg);
+		background-image: url({{'/assets/img/pwi_feature_industrial_stormwater1950.jpg' | absolute_url }});
 	}
 
 }
 
 .jumbotron_coi_industrial_stormwater {
-	background-image: url({{site.base_url}}/assets/img/pwi_feature_industrial_stormwater992.jpg);
+	background-image: url({{'/assets/img/pwi_feature_industrial_stormwater992.jpg' | absolute_url }});
 	// margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
 
 	.jumbotron_coi_industrial_stormwater {
-		background-image: url({{site.base_url}}/assets/img/pwi_feature_industrial_stormwater_gray.jpg);
+		background-image: url({{'/assets/img/pwi_feature_industrial_stormwater_gray.jpg' | absolute_url }});
 	}
 }
 //
