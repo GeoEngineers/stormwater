@@ -6,7 +6,7 @@ contents:
   image: /assets/img/021.jpg
   image_caption: |
     Permitted businesses are regulated for their stormwater runoff under the Department of Ecology’s National Pollutant Discharge Elimination System (NPDES) permit program.
-    
+
     [Click here to learn more.](http://www.ecy.wa.gov/programs/wq/stormwater/municipal/phaseIpermit/phipermit.html)
 ---
 
