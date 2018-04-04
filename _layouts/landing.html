@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body data-spy="scroll" data-target=".navbar-default">
+	{% include nav.html %}
+	<div id="primary-content" class="c1">
+		<section>
+			{% include jumbotron.html %}
+		</section>
+		<section>
+			<div class='container-fluid'>
+				<div class='row neg-voffset-top-30'>
+					<div class='col-xs-12 col-md-6 side-padding voffset-top-35 voffset-bottom-55'>
+						<div class="text-center">
+							<h1 class="h1-blue">{{page.sections['main_h1']}}</h1>
+							<img alt="Industrial Stormwater" class="img-circle voffset-top-15" src="{{page.sections['main_icon']}}"></div>
+						<div class="text-left">
+							<p class="lead voffset-top-25">{{page.sections['main_lead'] | markdownify}}</p>
+							<p>{{page.sections['main_copy'] | markdownify}}</p>
+							<p class="text-center lead-orange voffset-top-25"><a href="{{page.sections['main_link']}}">&gt; Read More</a></p>
+						</div>
+					</div>
+					<div class='col-xs-12 col-md-6 background-blue-container'>
+						<div class='row background-blue side-padding2'>
+							<div class="col-xs-12 voffset-top-95 voffset-bottom-35">
+								<div class="embed-responsive embed-responsive-16by9">
+									<iframe allowfullscreen="" mozallowfullscreen="" src="{{page.sections['video_url']}}" webkitallowfullscreen="" width="640" height="360" frameborder="0"></iframe>
+								</div>
+								<div class="blue-captions voffset-top-15">
+									<p>{{page.sections['video_title']}}</p>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4 voffset-top-15">
+								<a href="{{page.sections['link_1_link']}}">
+									<img alt="{{page.sections['link_1']}}" class="img-responsive center-block" src="{{page.sections['link_1_icon']}}">
+								</a>
+								<div class="blue-captions-small voffset-top-15 text-center">
+									<p><a href="{{page.sections['link_1_link']}}">{{page.sections['link_1']}}</a></p>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4 voffset-top-15">
+								<a href="{{page.sections['link_2_link']}}">
+									<img alt="{{page.sections['link_2']}}" class="img-responsive center-block" src="{{page.sections['link_2_icon']}}">
+								</a>
+								<div class="blue-captions-small voffset-top-15 text-center">
+									<p><a href="{{page.sections['link_2_link']}}">{{page.sections['link_2']}}</a></p>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4 voffset-top-15">
+								<a href="{{page.sections['link_3_link']}}">
+									<img alt="{{page.sections['link_3']}}" class="img-responsive center-block" src="{{page.sections['link_3_icon']}}">
+								</a>
+								<div class="blue-captions-small voffset-top-15 text-center">
+									<p><a href="i{{page.sections['link_3_link']}}">{{page.sections['link_3']}}</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div class='container-fluid'>
+				<div class="row background-gray text-left side-padding">
+					<div class="col-xs-12">
+						<h2>{{page.sections['focus_title']}}</h2>
+					</div>
+				</div>
+				<div class="row background-green text-left side-padding">
+					<!-- First focus -->
+					<div class="col-xs-12 col-sm-5 col-md-3 voffset-top-40">
+						<a href="{{page.sections['focus_1_link']}}">
+							<img alt="{{page.sections['focus_1_image_alt']}}"
+							class="img-responsive center-block"
+							src="{{page.sections['focus_1_image']}}" width="300" height="194">
+						</a>
+					</div>
+					<div class="col-xs-12 col-sm-7 col-md-9 side-padding voffset-top-35">
+						<h2>
+							<span class="intro-number">1</span><br>
+							<a href="{{page.sections['focus_1_link']}}">{{page.sections['focus_1_title']}}</a>
+						</h2>
+						<p>{{page.sections['focus_1_copy']}}</p>
+						<p class="text-left lead-orange voffset-top-25">
+							<a href="{{page.sections['focus_1_link']}}">&gt; Read More</a>
+						</p>
+					</div>
+					<div class="clearfix">&nbsp;</div>
+					<!-- Second focus -->
+					<div class="col-xs-12 col-sm-5 col-md-3 voffset-top-40">
+						<a href="{{page.sections['focus_2_link']}}">
+							<img alt="{{page.sections['focus_2_image_alt']}}"
+							class="img-responsive center-block"
+							src="{{page.sections['focus_2_image']}}" width="300" height="194">
+						</a>
+					</div>
+					<div class="col-xs-12 col-sm-7 col-md-9 side-padding voffset-top-35">
+						<h2>
+							<span class="intro-number">2</span><br>
+							<a href="{{page.sections['focus_2_link']}}">{{page.sections['focus_2_title']}}</a>
+						</h2>
+						<p>{{page.sections['focus_2_copy']}}</p>
+						<p class="text-left lead-orange voffset-top-25">
+							<a href="{{page.sections['focus_2_link']}}">&gt; Read More</a>
+						</p>
+					</div>
+					<div class="clearfix">&nbsp;</div>
+					<!-- Third focus -->
+					<div class="col-xs-12 col-sm-5 col-md-3 voffset-top-40">
+						<a href="{{page.sections['focus_3_link']}}">
+							<img alt="{{page.sections['focus_3_image_alt']}}"
+							class="img-responsive center-block"
+							src="{{page.sections['focus_3_image']}}" width="300" height="194">
+						</a>
+					</div>
+					<div class="col-xs-12 col-sm-7 col-md-9 side-padding voffset-top-35">
+						<h2>
+							<span class="intro-number">3</span><br>
+							<a href="{{page.sections['focus_3_link']}}">{{page.sections['focus_3_title']}}</a>
+						</h2>
+						<p>{{page.sections['focus_2_copy']}}</p>
+						<p class="text-left lead-orange voffset-top-25">
+							<a href="{{page.sections['focus_3_link']}}">&gt; Read More</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	{% include footer.html %}
+  </body>
+</html>
+<!--
+<iframe src="https://player.vimeo.com/video/207346630" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/207346630">PWI: Industrial Stormwater COI</a> from <a href="https://vimeo.com/puyallupwatershed">Puyallup Watershed Initiative</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->

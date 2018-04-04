@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body data-spy="scroll" data-target=".navbar-default">
+	{% include nav.html %}
+	<div id="primary-content" class="c1">
+		<section>
+			{% include jumbotron.html %}
+		</section>
+		<section>
+			<div class="container-fluid background-blue-container2 neg-voffset-top-30">
+				<div class="row">
+					{% include left_bar.html %}
+					<div class="col-xs-12 col-md-10 background-white">
+						<!-- main section -->
+						<div class="row side-padding4">
+							<div class="col-md-8 side-padding5">
+								<h1>{{page.sections['main_h1'] | markdownify}}</h1>
+								<p>{{page.sections['main_copy'] | markdownify}}</p>
+							</div>
+							<div class="col-xs-12 col-md-4">
+								<img alt="{{page.sections['main_image_alt']}}"
+								class="img-responsive center-block voffset-top-40"
+								src="{{page.sections['main_image']}}">
+							</div>
+						</div>
+						<!-- Partners section -->
+						<div class="row">
+							<div class="col-xs-12 background-gray text-left voffset-top-75">
+								<h2 class="side-padding2">Partners</h2> </div>
+						</div>
+						<div class="row">
+							<div class="col-xm-12 col-md-10 side-padding2 voffset-top-45 voffset-bottom-35">
+								<p>{{page.sections['partners_copy'] | markdownify}}</p>
+
+								<div class="col-xs-4"><a href="http://www.portoftacoma.com/" target="_blank"><img alt="Port of Tacoma" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/port-of-tacoma-logo.png"></a></div>
+								<div class="col-xs-4"><a href="http://www.cityoftacoma.org/" target="_blank"><img alt="City of Tacoma" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/city-of-tacoma-logo.png"></a></div>
+								<div class="col-xs-4"><a href="http://www.ecy.wa.gov/" target="_blank"><img alt="Department of Ecology" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/dep-of-ecology-logo.png"></a></div>
+								<div class="col-xs-4"><a href="http://www.healthybay.org/" target="_blank"><img alt="Citizens for a healthy bay" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/chb-logo.png"></a></div>
+								<div class="col-xs-4"><a href="http://www.tpchd.org/index.php" target="_blank"><img alt="Tacoma Pierce county health department" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/health-department-logo.png"></a></div>
+								<div class="col-xs-4"><a href="https://www.tacoma.uw.edu/center-urban-waters/center-urban-waters" target="_blank"><img alt="Center for urban waters" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/urban-waters-logo.png"></a></div>
+								<div class="clearfix">&nbsp;</div>
+								<div class="col-xs-4"><a href="http://www.wastormwatercenter.org/" target="_blank"><img alt="Washington stormwater" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/washington-stormwater-logo.png"></a></div>
+								<div class="col-xs-4"><a href="http://www.piercecountycd.org/" target="_blank"><img alt="Pierce conservation district" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/pierce-conservation-logo.png"></a></div>
+								<div class="col-xs-4"><a href="http://www.geoengineers.com/" target="_blank"><img alt="GeoEngineers" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/geoengineers-logo.png"></a></div>
+								<div class="clearfix">&nbsp;</div>
+								<div class="col-xs-4"><a href="http://vigor.net/about/companies/vigor-marine" target="_blank"><img alt="Vigor" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/vigor-logo.png"></a></div>
+								<div class="col-xs-4"><a href="http://www.associatedpetroleum.com/" target="_blank"><img alt="Associated Petroleum Products" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/app-logo.png"></a></div>
+								<div class="col-xs-4"><a href="http://www.calbag.com/" target="_blank"><img alt="Calbag" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/calbag-metals-logo.png"></a></div>
+								<div class="clearfix">&nbsp;</div>
+								<div class="col-xs-4"><a href="http://www.tridentseafoods.com/" target="_blank"><img alt="Trident seafood" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/trident-seafoods-logo.png"></a></div>
+								<div class="col-xs-4"><a href="http://www.catchallenvironmental.com/" target="_blank"><img alt="CatchAll environment" class="img-responsive center-block voffset-top-40" src="/assets/img/partners/catchall-logo.png"></a></div>
+								<div class="clearfix">&nbsp;</div>
+							</div>
+						</div>
+						<!-- Strategies section -->
+						<div class="row">
+							<div class="col-xs-12 background-gray text-left voffset-top-75">
+								<h2 class="side-padding2">Strategies</h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-xm-12 col-md-10 side-padding2 voffset-top-45">
+								<p class="lead">{{page.sections['strategies_lead'] | markdownify}}</p>
+								<p>{{page.sections['strategies_copy'] | markdownify}}</p>
+							</div>
+						</div>
+						<!-- Documents -->
+						<div class="row">
+							<div class="col-xs-12 background-gray text-left voffset-top-75">
+								<h2 class="side-padding2">Documents</h2> </div>
+						</div>
+						<div class="row">
+							<div class="col-xm-12 col-md-10 side-padding2 voffset-top-45 voffset-bottom-55">
+								<p>{{page.sections['documents_copy']}}</p>
+								<!-- <p>{{ page.sections | jsonify }}</p> -->
+								{% for document in page.sections['documents_links'] %}
+
+								<div class="col-md-4 text-center">
+									<a href="{{ document['url']}}">
+										<img alt="Document: {{ document['title']}} {{ document['description']}}"
+										class="img-responsive center-block voffset-top-40"
+										src="{{page.sections['documents_icon']}}">
+									</a>
+									<h3>
+										<a href="{{ document['url']}}">{{ document['title']}}<br>
+											<small>{{ document['description']}}</small>
+										</a>
+									</h3>
+								</div>
+								{% endfor %}
+							</div>
+						</div>
+						<!-- Contact us -->
+						<div class="row">
+							<div class="col-xs-12 background-gray text-center ">
+								<h3>Get In Touch</h3> </div>
+							<div class="col-xs-12 yellow-box text-left side-padding">
+								<p class="voffset-top-25">{{page.sections['contact_copy']}}</p>
+								<img alt="{{page.sections['contact_name']}}"
+									class="img-circle img-responsive center-block voffset-top-25"
+									src="{{page.sections['contact_image']}}"
+									width="200" height="200">
+								<ul class="list-unstyled text-center voffset-top-25 voffset-bottom-55">
+									<li><strong>{{page.sections['contact_name']}}</strong></li>
+									<li>{{page.sections['contact_title']}}</li>
+									<li>{{page.sections['contact_title_2']}}</li>
+									<li><a href="mailto:{{page.sections['contact_email']}}">{{page.sections['contact_email']}}</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	{% include footer.html %}
+  </body>
+</html>
+<!--
+<iframe src="https://player.vimeo.com/video/207346630" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/207346630">PWI: Industrial Stormwater COI</a> from <a href="https://vimeo.com/puyallupwatershed">Puyallup Watershed Initiative</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->

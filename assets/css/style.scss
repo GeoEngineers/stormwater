@@ -39,6 +39,7 @@ body {
 
 .jumbotron_coi_industrial_stormwater {
 	background-image: url({{site.base_url}}/assets/img/pwi_feature_industrial_stormwater992.jpg);
+	// margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
@@ -46,4 +47,8 @@ body {
 	.jumbotron_coi_industrial_stormwater {
 		background-image: url({{site.base_url}}/assets/img/pwi_feature_industrial_stormwater_gray.jpg);
 	}
+}
+
+.landing-links {
+	background-color: rgb(84, 143, 196)
 }
