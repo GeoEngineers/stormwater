@@ -15,3 +15,9 @@
       subhref: "/regulatory/tacoma/"
     - subtitle: "Puyallup Indian Tribe"
       subhref: "/regulatory/tacoma/"
+
+- title: "Technical Assistance"
+  href: "/technical"
+
+- title: "Community Action"
+  href: "/community"
