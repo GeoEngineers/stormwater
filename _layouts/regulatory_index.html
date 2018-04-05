@@ -40,7 +40,7 @@
 									<p>{{org.copy | markdownify }}</p>
 								</div>
 								<div class='col-xs-12 col-md-4'>
-									<img src="{{org.image}}">
+									<img src="{{org.image | relative_url }}">
 								</div>
 							</div>
 						{% endfor %}
