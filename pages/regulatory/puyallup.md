@@ -8,4 +8,4 @@ contents:
 
 ## Puyallup Indian Tribe
 
-TBD
+**NEED COPY**
