@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    and community outreach. Our long-term goal is to improve water quality in the
    Puyallup River Watershed, starting in the Tacoma Tideflats and expanding into
    South Tacoma/Nalley Valley.
-# base_url: "/stormwater" # the subpath of your site, e.g. /blog
+base_url: "/stormwater" # the subpath of your site, e.g. /blog
 url: "https://geoengineers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # We'll need a different hostname and subpath when we deploy
 # twitter_username: jekyllrb
