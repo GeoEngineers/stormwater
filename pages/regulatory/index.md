@@ -13,7 +13,7 @@ sections:
   organizations:
     -
       title: Ecology
-      copy: The Washington State Department of Ecology (Ecology) is delegated by the USEPA as the state water pollution control agency to administer the National Pollutant Discharge Elimination System (NPDES) and wastewater discharge permits program for Washington State including permits for facilities performing industrial activities. Ecology's authority to implement industrial stormwater requirements comes from the Federal Clean Water Act and Washington State Water Pollution Control Act. Ecology has developed an industrial general stormwater permit as well as specific industrial stormwater permits for various types of facilities performing industrial activities. Additional information on Ecology’s industrial stormwater permits is provide [here]({% link ecology %}).
+      copy: The Washington State Department of Ecology (Ecology) is delegated by the USEPA as the state water pollution control agency to administer the National Pollutant Discharge Elimination System (NPDES) and wastewater discharge permits program for Washington State including permits for facilities performing industrial activities. Ecology's authority to implement industrial stormwater requirements comes from the Federal Clean Water Act and Washington State Water Pollution Control Act. Ecology has developed an industrial general stormwater permit as well as specific industrial stormwater permits for various types of facilities performing industrial activities. Additional information on Ecology’s industrial stormwater permits is provide [here](ecology).
       image: /assets/img/ecology_map.png
     -
       title: City of Tacoma
