@@ -21,7 +21,7 @@
 								<figure>
 									<img alt="{{page.title}}"
 									class="img-responsive center-block voffset-top-95"
-									src="{{ page.contents['image']}}" width="450" height="338">
+									src="{{ page.contents['image'] | relative_url }}" width="450" height="338">
 									<figcaption class="voffset-top-10">
 										{{ page.contents['image_caption'] | markdownify }}<br>
 									</figcaption>
