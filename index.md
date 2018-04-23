@@ -20,7 +20,7 @@ sections:
   link_1_link: about
   link_2: Join us at an upcoming event
   link_2_icon: assets/img/home_page_calendar_icon250.png
-  link_2_link:
+  link_2_link: https://www.pwi.org/index.cfm?fuseaction=page.viewpage&pageid=531
   link_3: Contact us about ways to get involved
   link_3_icon: assets/img/pwi_join_us_icon250.png
   link_3_link: https://www.pwi.org/index.cfm?fuseaction=page.viewpage&pageid=548
@@ -28,7 +28,7 @@ sections:
   focus_1_image: assets/img/WestrockSmall.png
   focus_1_image_alt: Industrial chipyard in tidelands
   focus_1_title: Regulatory Assistance
-  focus_1_copy: We know that identifying which stormwater management requirements apply to your facility and interpreting the requirements is complicated. We provide information and tools to assist you in navigating and complying with stormwater management requirements.
+  focus_1_copy: We know that identifying which stormwater management requirements apply to your facility and interpreting the requirements is complicated. We provide information and tools to assist you in navigating and complying with stormwater requirements.
   focus_1_link: regulatory
   focus_2_image: assets/img/021.jpg
   focus_2_image_alt: Industrial Outreach
@@ -38,7 +38,7 @@ sections:
   focus_3_image: assets/img/community250.jpg
   focus_3_image_alt: Kajaker
   focus_3_title: Community action
-  focus_3_copy: A better informed community can also help make great strides in cleaning up our water. Empowering people of the Watershed with ideas, tools and programs to improve homeowner stormwater is a win for all.
+  focus_3_copy: A better informed community can help make great strides in cleaning up our water. Empowering people in the Watershed with ideas, tools and programs to improve stormwater is a win for all.
   focus_3_link: community
 
 ---
