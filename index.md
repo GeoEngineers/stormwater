@@ -28,7 +28,7 @@ sections:
   focus_1_image: assets/img/WestrockSmall.png
   focus_1_image_alt: Industrial chipyard in tidelands
   focus_1_title: Regulatory Assistance
-  focus_1_copy: We know that identifying which stormwater management requirements apply to your facility and interpreting the requirements is complicated. We provide information and tools to assist you in navigating and complying with stormwater requirements.
+  focus_1_copy: We know that identifying which stormwater management requirements apply to your facility and interpreting the requirements is complicated. We provide information and tools to assist you in navigating the regulatory maze and complying with stormwater requirements.
   focus_1_link: regulatory
   focus_2_image: assets/img/021.jpg
   focus_2_image_alt: Industrial Outreach
