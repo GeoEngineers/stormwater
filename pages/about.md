@@ -9,7 +9,7 @@ sections:
   main_copy: |
     The Industrial Stormwater Community of Interest (ISCOI) is a collaborative group working to reduce stormwater pollution. ISCOI partners include individuals from a diverse group of organizations, businesses, and agencies located in the Puyallup River Watershed and the City of Tacoma. There is always room at the table for more partners and community input. Please send us an email or come to an ISCOI event if you want to take part in the COI.
 
-    The ISCOI is currently focusing outreach activities on Tacoma’s industrial Tideflats area. The Tacoma Tideflats is our starting point because it is a small area with a high concentration of industrial businesses. The ISCOI plans to expand our outreach into the Nalley Valley industrial corridor as we move out into the rest of the Watershed. Although our outreach focus is in the Tideflats, we are here to support businesses all across the watershed.
+    The ISCOI is currently focusing outreach activities on Tacoma’s industrial Tideflats area. The Tacoma Tideflats is our starting point because it is a small area with a high concentration of industrial businesses. The ISCOI plans to expand our outreach into the Nalley Valley industrial corridor as we move out into the rest of the Watershed. Although our outreach focus is in the Tideflats, we are here to support businesses all across the watershed. 
 
     ### A Little History of the Tacoma Tideflats
 

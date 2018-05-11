@@ -21,7 +21,7 @@ sections:
       image: /assets/img/city_of_tacoma_map.png
     -
       title: Port of Tacoma
-      copy: The Port of Tacoma (Port) performs stormwater management activities on Port properties in accordance with a Phase I MS4 NPDES Permit from Ecology. Under the NPDES permit, the Port is responsible for complying with applicable requirements for the storm sewers it owns or operates, including on tenant-occupied properties.  Generally, industrial activities are performed on Port properties. The Port and some Port tenants are also covered by ISGPs. Additional information on the Port’s industrial stormwater requirements is provided [here](port).
+      copy: The Port of Tacoma (Port) performs stormwater management activities on Port properties in accordance with a Phase I MS4 NPDES Permit from Ecology. Under the NPDES permit, the Port is responsible for complying with applicable requirements for the storm sewers it owns or operates, including on tenant-occupied properties. Generally, industrial activities are performed on Port properties. The Port and some Port tenants are also covered by ISGPs. Additional information on the Port’s industrial stormwater requirements is provided [here](port).
       image: /assets/img/port_of_tacoma_map.png
     -
       title: Puyallup Indian Tribe
