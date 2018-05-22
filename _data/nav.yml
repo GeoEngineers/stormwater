@@ -16,11 +16,14 @@
     - subtitle: "Puyallup Indian Tribe"
       subhref: "/regulatory/tacoma"
 
-- title: "Technical Assistance"
+- title: "Navigating Your Permit"
   href: "/technical"
-
-- title: "Community Action"
-  href: "/community"
+  subcategories:
+    - subtitle: "Visual observations indicate that I might have problem"
+      subhref: "/technical/visual"
+#
+# - title: "Community Action"
+#   href: "/community"
 
 - title: "ISGP Regulatory Assistance"
   href: "/ispg-regulatory-assistance"

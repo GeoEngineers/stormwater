@@ -30,16 +30,16 @@ sections:
   focus_1_image_alt: Industrial chipyard in tidelands
   focus_1_title: Navigating your permit
   focus_1_copy: New to the permit or have new challenges at your facility?
-  focus_1_link: regulatory
+  focus_1_link: technical
   focus_2_image: assets/img/021.jpg
   focus_2_image_alt: Industrial Outreach
   focus_2_title: Stormwater Management Resources
   focus_2_copy: Need financial assistance or want to hear how your neighbors are reducing their pollution?
-  focus_2_link: technical
+  focus_2_link: resources
   focus_3_image: assets/img/community250.jpg
   focus_3_image_alt: Kajaker
   focus_3_title: Regulatory Information
   focus_3_copy: Need help identifying and interpreting stormwater requirements that apply to your facility?
-  focus_3_link: community
+  focus_3_link: regulatory
 
 ---

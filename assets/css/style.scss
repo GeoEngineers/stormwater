@@ -65,3 +65,35 @@ ul.sidenav {
 ul.sidenav li a {
 	color: white;
 }
+
+// flowchart stuff
+
+div.flowchart_link {
+	padding: 10px;
+	font-size: 0.9em;
+	// background-clip: content;
+	// margin-right: 10px;
+}
+
+div.flowchart_link a {
+	display: block;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	box-shadow: 3px 3px 6px gray;
+	height: 185px;
+}
+
+div.flowchart_link.green a {
+	background-color: #7A9E00;
+	border: 3px solid #C8C8C8;
+}
+
+div.flowchart_link.blue a {
+	background-color: #7AA0B4;
+	border: 3px solid #C8C8C8;
+}
+
+div.flowchart_link a:hover {
+	box-shadow: 3px 3px 15px gray;
+}
