@@ -4,14 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: landing
 sections:
-  main_h1: Industrial Stormwater
+  main_h1: Healthy Watershed. Healthy Economy.
   main_icon: assets/img/pwi_industrial_stormwater_icon.png
   main_lead: |
-    Stormwater is the number one pollution source in Puget Sound. Each year, the Puget Sound basin receives an average of more than 370 billion gallons of stormwater runoff from impervious surfaces, such as roadways, urban spaces, and industrial facilities.
+    The Industrial Stormwater Community of Interest (ISCOI) is a collaborative group focused on improving water quality in the Puyallup Watershed by helping industrial businesses manage their stormwater more effectively. We provide education and assistance to local businesses to help improve and continue their work on mitigating environmental impacts and help share stories of their hard work and environmental victories with the public.
   main_copy: |
-    The stormwater can’t penetrate these surfaces and soak into the ground; so it flows across the surfaces and gets contaminated along the way with pollutants such as motor oil, metals including copper and zinc, and industrial chemicals. Approximately 30 tons of pollutants end up in the Puget Sound ecosystem every day.
+    The ISCOI partners include individuals from a diverse group of organizations, businesses, and agencies located in the Puyallup River Watershed and the City of Tacoma. We don’t enforce regulations; we work with businesses to help them comply with stormwater requirements and permits.
 
-    The Industrial Stormwater Community of Interest (ISCOI) is a partnership of people whose objective it is help reduce stormwater pollution from industrial activities by providing support to industrial facilities working to meet challenging stormwater requirements. The ISCOI provides support through regulatory and technical assistance and community outreach. Our long-term goal is to improve water quality in the Puyallup River Watershed, starting in the Tacoma Tideflats and expanding into South Tacoma/Nalley Valley.
+    Stormwater is the number one pollution source in Puget Sound. Each year, the Puget Sound basin receives an average of more than 370 billion gallons of stormwater runoff from roadways, urban spaces, and industrial facilities. Businesses often face pressures to reduce their environmental impact without adequate resources and education to help them make effective improvements. The ISCOI provides these necessary resources so businesses can address environmental concerns while focusing on their bottom line.
+
   main_link: about
   video_url: https://player.vimeo.com/video/207346630
   video_title: Voices of the Industrial Stormwater COI
@@ -27,18 +28,18 @@ sections:
   focus_title: Areas of focus
   focus_1_image: assets/img/WestrockSmall.png
   focus_1_image_alt: Industrial chipyard in tidelands
-  focus_1_title: Regulatory Assistance
-  focus_1_copy: We know that identifying which stormwater management requirements apply to your facility and interpreting the requirements is complicated. We provide information and tools to assist you in navigating the regulatory maze and complying with stormwater requirements.
+  focus_1_title: Navigating your permit
+  focus_1_copy: New to the permit or have new challenges at your facility?
   focus_1_link: regulatory
   focus_2_image: assets/img/021.jpg
   focus_2_image_alt: Industrial Outreach
-  focus_2_title: Technical assistance
-  focus_2_copy: Here you can find effective stormwater best management practices (BMPs), case studies, and helpful ideas from other businesses.
+  focus_2_title: Stormwater Management Resources
+  focus_2_copy: Need financial assistance or want to hear how your neighbors are reducing their pollution?
   focus_2_link: technical
   focus_3_image: assets/img/community250.jpg
   focus_3_image_alt: Kajaker
-  focus_3_title: Community action
-  focus_3_copy: A better informed community can help make great strides in cleaning up our water. Empowering people in the Watershed with ideas, tools and programs to improve stormwater is a win for all.
+  focus_3_title: Regulatory Information
+  focus_3_copy: Need help identifying and interpreting stormwater requirements that apply to your facility?
   focus_3_link: community
 
 ---

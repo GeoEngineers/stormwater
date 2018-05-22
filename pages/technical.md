@@ -10,44 +10,24 @@ contents:
     [Click here to learn more.](http://www.ecy.wa.gov/programs/wq/stormwater/municipal/phaseIpermit/phipermit.html)
 ---
 
-## Technical Assistance
+## Stormwater Management Resources
 
-Any business can make changes at their site to help manage stormwater pollution, even if they aren’t required to as part of a permit. It can be as simple as reminding your staff to avoid putting anything but clean rainwater down storm drains, or something more complex like installing a rain garden. But how do you know what is right for your site? The Industrial Stormwater COI is helping local businesses of all types and sizes learn how they can manage the stormwater that flows through their properties.
+Any business can make changes at their site to help manage and improve their stormwater runoff, even if they aren’t required to as part of a permit. It can be as simple as reminding staff to avoid putting anything but clean rainwater down storm drains, or something more complex like installing a stormwater treatment system. But how do you know what is right for your site? Or how can you find out what other businesses have done to help manage their stormwater? We have compiled resources to help you:
 
-- [Best Management Practices](#BMP)
-- [Technical Assistance Documents](#TAD)
-- [Case Studies](#CASE)
-- [Peer Sharing](#PEER)
-- [Incentives](#INCT)
+- Receive assistance through our [Stormwater Opportunity Fund](#SOF) grant
+- Read our [Company Spotlights](#CS) to hear about the successes and challenges of some of your neighbor’s facilities
+- Attend networking and educational workshops
 
-### <a name='BMP'></a>Best Management Practices
+### <a name='SOF'></a>Stormwater Opportunity Fund
 
-[Return to Top](#TOP)
+The Stormwater Opportunity Fund is available to businesses in the Puyallup River Watershed to help explore stormwater treatment options, provide seed money to demonstrate social and community support for a larger on-site projects, or capital to invest in stormwater education and training opportunities for staff. More information on how to apply for the Stormwater Opportunity Fund can be found here.
 
-### <a name='TAD'></a>Technical Assistance Documents
+### <a name='CS'></a>Company Spotlights
 
-[Return to Top](#TOP)
+There are many different types of businesses in Tacoma’s industrial areas that provide products and services that are vital to our economy and our way of life. While the business types may vary, they often face similar challenges in managing their stormwater and meeting the strict environmental regulations. The Company Spotlights were prepared to showcase the efforts made by nearby businesses and to share information on what they’ve found to be effective, or not so effective, in addressing their stormwater challenges. Check back as we will be adding more Company Spotlights in the weeks to come.
 
-### <a name='CASE'></a>Company Spotlights
+- Associated Petroleum Products (could provide link from name or include photo of APP as a button)
 
-There are many different types of businesses in Tacoma’s industrial areas that provide products and services that are vital to our way of life. It can be very challenging for these types of businesses to meet strict environmental regulations due to the nature of their operations. These case studies were created to showcase the stormwater management efforts put forth by our community members, and to take a look at how the technologies used are working for them.
+### <a name='WS'></a>Workshops
 
-- [Associated Petroleum Products](https://www.pwi.org/_data/global/files/ISCOI_CompanySpotlight_Final_APP.pdf)
-
-[Return to Top](#TOP)
-
-### <a name='PEER'></a>Peer Sharing
-
-Join a monthly Lunch & Learn on the fourth Friday of every month from noon to 1pm at the TAGRO office at 2301 Cleveland Way, Tacoma, WA 98421 . We have a new topic every month, and provide an opportunity to share experiences and lessons learned with your peers, as well as make new connections and get to know the Industrial Stormwater Community of Interest.
-
-[Return to Top](#TOP)
-
-### <a name='INCT'></a>Incentives
-
-Ways to Lower Your Surface Water Bill: If you use and maintain a low-impact development installation that is permitted and approved by City of Tacoma and conforms to the Storm Water Management Manual, you can qualify for a one-category rate reduction.
-
-For more information about this program call Site Development at (253) 591-5218 or visit City of Tacoma's Surface Water Rates website.
-
-[Return to Top](#TOP)
-
-> If we can make it easy for businesses to share information about effective pollution prevention measures, then we can make it easy to embrace a culture of environmental stewardship.
+The ISCOI holds in-person workshops and webinars throughout the year to provide businesses with opportunities to: network with and meet their neighbors; gain hands-on-learning through events such as building a treatment BMP, and; hear from legal experts, Ecology, or other inspectors. Links to old webinars are provided here. See our calendar for dates and information on upcoming workshops – including a BMP Fair scheduled for August 15th, 2018 at the Fabulich Center at the Port of Tacoma.
