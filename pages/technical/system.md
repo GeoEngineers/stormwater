@@ -1,7 +1,7 @@
 ---
 layout: flowcharts
 title: The function/operation of the collection system indicates that I might have a problem
-permalink: /technical/flowcharts/system
+permalink: /technical/system
 ---
 
 # The function/operation of the collection system indicates that I might have a problem

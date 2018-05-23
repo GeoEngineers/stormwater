@@ -1,7 +1,7 @@
 ---
 layout: flowcharts
 title: Laboratory results indicate that I might have a problem
-permalink: /technical/flowcharts/lab
+permalink: /technical/lab
 ---
 
 # Laboratory results indicate that I might have a problem

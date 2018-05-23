@@ -1,7 +1,7 @@
 ---
 layout: flowcharts
 title: Visual observations indicate that I might have a problem
-permalink: /technical/flowcharts/visual
+permalink: /technical/visual
 ---
 
 # Visual observations indicate that I might have a problem

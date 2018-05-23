@@ -1,7 +1,7 @@
 ---
 layout: flowcharts
 title: Navigating Your Permit
-permalink: /technical
+permalink: /technical/
 contents:
 
 ---

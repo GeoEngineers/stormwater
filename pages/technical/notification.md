@@ -1,7 +1,7 @@
 ---
 layout: flowcharts
 title: Notification or reporting indicates that I might have a problem
-permalink: /technical/flowcharts/notification
+permalink: /technical/notification
 ---
 
 # Notification or reporting indicates that I might have a problem
