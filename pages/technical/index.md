@@ -6,9 +6,14 @@ contents:
 
 ---
 
-# Do I need a permit?
+## Do I need a permit?
 
-Use the links below to navigate to your solution.
+The link provides a flow chart that can help navigate whether you need a permit.
+<!-- Flow Chart created by Kris Symer TBD -->
+
+## I might have a problem
+
+The buttons below link flow charts that can help navigate potential problems with permit compliance.
 
 <div class='container-fluid'>
 	<div class='row'>
