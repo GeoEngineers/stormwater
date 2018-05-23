@@ -16,11 +16,20 @@
     - subtitle: "Puyallup Indian Tribe"
       subhref: "/regulatory/tacoma"
 
+- title: "Resources"
+  href: "/resources"
+
 - title: "Navigating Your Permit"
   href: "/technical"
   subcategories:
-    - subtitle: "Visual observations indicate that I might have problem"
+    - subtitle: "Visual Problem"
       subhref: "/technical/visual"
+    - subtitle: "Laboratory Problem"
+      subhref: "/technical/lab"
+    - subtitle: "System Problem"
+      subhref: "/technical/system"
+    - subtitle: "Notification Problem"
+      subhref: "/technical/notification"
 #
 # - title: "Community Action"
 #   href: "/community"
