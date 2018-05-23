@@ -42,7 +42,7 @@ Use the Site Assistant app below to prep your map.
 	<div class='row'>
 		<div class='col-xs-12 col-md-8 maplink'>
 			<a href='https://wa-sw-ctr.maps.arcgis.com/apps/webappviewer/index.html?id=38162067e5d9447e84093add9389e25e'>
-				<img class='img-responsive' src="../../assets/img/mapping-application.png" />
+				<img class='img-responsive' src="/assets/img/mapping-application.png" />
 			</a>
 		</div>
 	</div>
