@@ -1,6 +1,6 @@
 ---
 layout: regulatory_index
-title: Regulatory Assistance
+title: Regulatory Information
 permalink: /regulatory/
 sections:
   resource_links:
@@ -30,7 +30,7 @@ sections:
 
 ---
 
-## Regulatory Assistance
+## Regulatory Information
 
 What are the requirements that apply to stormwater from my industrial activities?
 
