@@ -26,6 +26,10 @@ labels:
     color: cc317c
   - name: "wontfix"
     color: FFFFFF
+  - name: "Requires Patch"
+    color: 0e8a16
+  - name: "Requires Migration"
+    color: 0e8a16
   - name: "Sprint 11 2018-05-21"
     color: 9809f7
   - name: "Sprint 12 2018-06-04"
