@@ -5,7 +5,13 @@
 	{% include nav.html %}
 	<div id="primary-content" class="c1">
 		<section>
-			{% include jumbotron.html %}
+			<div class="jumbotron_coi_industrial_stormwater sticky">
+				<div class="container-fluid">
+					<div class="row">
+						<h1 class="jumbo-h1-2">Healthy Watershed. Healthy Economy.</h1>
+					</div>
+				</div>
+			</div>
 		</section>
 		<section>
 			<div class='container-fluid'>
@@ -17,7 +23,9 @@
 						<div class="text-left">
 							<p class="lead voffset-top-25">{{page.sections['main_lead'] | markdownify}}</p>
 							<p>{{page.sections['main_copy'] | markdownify}}</p>
-							<p class="text-center lead-orange voffset-top-25"><a href="{{page.sections['main_link']}}">&gt; Read More</a></p>
+							<p class="text-center lead-orange voffset-top-25">
+								<a aria-label="About Us" title="About Us" href="{{page.sections['main_link']}}">&gt; Read More</a>
+							</p>
 						</div>
 					</div>
 					<div class='col-xs-12 col-md-6 background-blue-container'>
@@ -71,7 +79,7 @@
 					<div class="col-xs-12 col-sm-5 col-md-3 voffset-top-40">
 						<a href="{{page.sections['focus_1_link']}}">
 							<img alt="{{page.sections['focus_1_image_alt']}}"
-							class="img-responsive center-block"
+							class="img-responsive center-block fixedheight"
 							src="{{page.sections['focus_1_image']}}" width="300" height="194">
 						</a>
 					</div>
@@ -82,7 +90,7 @@
 						</h2>
 						<p>{{page.sections['focus_1_copy']}}</p>
 						<p class="text-left lead-orange voffset-top-25">
-							<a href="{{page.sections['focus_1_link']}}">&gt; Read More</a>
+							<a title="Read More" href="{{page.sections['focus_1_link']}}">&gt; Read More</a>
 						</p>
 					</div>
 					<div class="clearfix">&nbsp;</div>
@@ -90,7 +98,7 @@
 					<div class="col-xs-12 col-sm-5 col-md-3 voffset-top-40">
 						<a href="{{page.sections['focus_2_link']}}">
 							<img alt="{{page.sections['focus_2_image_alt']}}"
-							class="img-responsive center-block"
+							class="img-responsive center-block fixedheight"
 							src="{{page.sections['focus_2_image']}}" width="300" height="194">
 						</a>
 					</div>
@@ -101,7 +109,7 @@
 						</h2>
 						<p>{{page.sections['focus_2_copy']}}</p>
 						<p class="text-left lead-orange voffset-top-25">
-							<a href="{{page.sections['focus_2_link']}}">&gt; Read More</a>
+							<a title="Read More" href="{{page.sections['focus_2_link']}}">&gt; Read More</a>
 						</p>
 					</div>
 					<div class="clearfix">&nbsp;</div>
@@ -109,7 +117,7 @@
 					<div class="col-xs-12 col-sm-5 col-md-3 voffset-top-40">
 						<a href="{{page.sections['focus_3_link']}}">
 							<img alt="{{page.sections['focus_3_image_alt']}}"
-							class="img-responsive center-block"
+							class="img-responsive center-block fixedheight"
 							src="{{page.sections['focus_3_image']}}" width="300" height="194">
 						</a>
 					</div>
@@ -120,7 +128,7 @@
 						</h2>
 						<p>{{page.sections['focus_3_copy']}}</p>
 						<p class="text-left lead-orange voffset-top-25">
-							<a href="{{page.sections['focus_3_link']}}">&gt; Read More</a>
+							<a title="Read More" href="{{page.sections['focus_3_link']}}">&gt; Read More</a>
 						</p>
 					</div>
 				</div>

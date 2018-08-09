@@ -4,7 +4,7 @@ title: Laboratory results indicate that I might have a problem
 permalink: /technical/lab
 ---
 
-# Laboratory results indicate that I might have a problem
+## Laboratory results indicate that I might have a problem
 
 ![Laboratory flowchart 1](../../assets/img/technical_flowcharts/900w/laboratory_01.png)
 

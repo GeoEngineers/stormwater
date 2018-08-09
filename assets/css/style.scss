@@ -32,20 +32,20 @@ body {
 @media (min-width: 1500px) {
 
 	.jumbotron_coi_industrial_stormwater {
-		background-image: url({{'/assets/img/pwi_feature_industrial_stormwater1950.jpg' | relative_url }});
+		background-image: url({{'/assets/img/pwi_feature_industrial_stormwater1950_2.jpg' | relative_url }});
 	}
 
 }
 
 .jumbotron_coi_industrial_stormwater {
-	background-image: url({{'/assets/img/pwi_feature_industrial_stormwater992.jpg' | relative_url }});
+	background-image: url({{'/assets/img/pwi_feature_industrial_stormwater992_2.jpg' | relative_url }});
 	// margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
 
 	.jumbotron_coi_industrial_stormwater {
-		background-image: url({{'/assets/img/pwi_feature_industrial_stormwater_gray.jpg' | relative_url }});
+		background-image: url({{'/assets/img/pwi_feature_industrial_stormwater_gray_2.jpg' | relative_url }});
 	}
 }
 //
@@ -99,4 +99,19 @@ div.flowchart_link.blue a {
 
 div.flowchart_link a:hover, div.maplink a {
 	box-shadow: 3px 3px 15px gray;
+}
+
+.mapboxgl-popup {
+    max-width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.fixedheight {
+	height: 200px;
+	object-fit: cover;
+}
+
+.partners > div > a > img {
+	max-height: 108px;
+	object-fit: contain;
 }

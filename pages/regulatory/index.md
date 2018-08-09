@@ -7,7 +7,7 @@ sections:
     - |
       [Washington State Department of Ecology Stormwater Permits](https://ecology.wa.gov/Regulations-Permits/Permits-certifications/Stormwater-general-permits/Industrial-stormwater-permit)
     - |
-      [City of Tacoma Stormwater Management Program Compliance](http://www.rrstormwater.com/city-tacoma-stormwater-management-regulation-compliance)
+      [City of Tacoma Stormwater Management Program ](http://www.rrstormwater.com/city-tacoma-stormwater-management-regulation-compliance)
     - |
       [Port of Tacoma - Protecting Water Quality](https://www.portoftacoma.com/community/environment/water-quality)
   organizations:
@@ -25,7 +25,7 @@ sections:
       image: /assets/img/port_of_tacoma_map.png
     -
       title: Puyallup Indian Tribe
-      copy: NEED COPY More info [here](puyallup)
+      copy: The United States Environmental Protection Agency (EPA) issues NPDES permits on tribal lands in Washington State. Additional information on EPA’s NPDES program is provided [here](https://www.epa.gov/npdes/npdes-permit-writers-manual).
       image:
 
 ---
