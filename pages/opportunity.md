@@ -12,7 +12,7 @@ contents:
 
 ## Small grants for businesses and non-profits in the Puyallup River Watershed.
 
-## Now accepting applications!**
+## Now accepting applications!
 
 Do you have a stormwater project you need to get off the ground? The Stormwater Opportunity Fund can be used as seed money to get you started, or to cover an entire small project! Funding is provided by the Stormwater COI.  
 
