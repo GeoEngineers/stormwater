@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Industrial Stormwater
+title: Stormwater
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-   The Industrial Stormwater Community of Interest (ISCOI) is a partnership of people
+   The Stormwater Community of Interest (ISCOI) is a partnership of people
    whose objective it is help reduce stormwater pollution from industrial activities
    by providing support to industrial facilities working to meet challenging stormwater
    requirements. The ISCOI provides support through regulatory and technical assistance
@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    South Tacoma/Nalley Valley.
 # base_url: "/stormwater" # the subpath of your site, e.g. /blog
 url: "https://geoengineers.github.io/stormwater" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://stormwater.pwi.org" # the base hostname & protocol for your site, e.g. http://example.com
 # We'll need a different hostname and subpath when we deploy
 # twitter_username: jekyllrb
 github_username: zeigert

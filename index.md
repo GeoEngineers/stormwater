@@ -15,8 +15,8 @@ sections:
 
   main_link: about
   video_url: https://player.vimeo.com/video/207346630
-  video_title: Voices of the Industrial Stormwater COI
-  link_1: Learn more about the Industrial Stormwater COI
+  video_title: Voices of the Stormwater COI
+  link_1: Learn more about the Stormwater COI
   link_1_icon: assets/img/pwi_about_us_icon250.png
   link_1_link: about
   link_2: Join us at an upcoming event
