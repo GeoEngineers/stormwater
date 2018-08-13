@@ -29,13 +29,13 @@ sections:
       title: SCOI
       description: 2017 Strategic Plan
     -
-      url: #
+      url: /assets/pdf/ISCOI Steering Committee.docx
       title: Steering Committee
-      description: ???
+      description: [DOCX]
     -
       url: /assets/pdf/SCOI_Strategic_Summary_23July.pdf
       title: Strategic Summary
-      description: ???
+      description: [PDF]
   contact_copy: |
     Our work is made more powerful with more members! See our calendar for dates and locations of upcoming events and activities. For more information on how you can help improve water quality in the Puyallup River Watershed and Puget Sound, please contact:
   contact_image: /assets/img/PWI_headshots-CarrieHernandez.jpg

@@ -21,10 +21,10 @@ sections:
   link_1_link: about
   link_2: Join us at an upcoming event
   link_2_icon: assets/img/home_page_calendar_icon250.png
-  link_2_link: mailto:chernandez@pwi.org
+  link_2_link: https://www.pwi.org/index.cfm?fuseaction=page.viewpage&pageid=531
   link_3: Contact us about ways to get involved
   link_3_icon: assets/img/pwi_join_us_icon250.png
-  link_3_link: https://www.pwi.org/index.cfm?fuseaction=page.viewpage&pageid=548
+  link_3_link: mailto:chernandez@pwi.org
   focus_title: Areas of focus
   focus_1_image: assets/img/WestrockSmall.png
   focus_1_image_alt: Industrial chipyard in tidelands

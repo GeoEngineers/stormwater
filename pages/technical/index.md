@@ -12,18 +12,18 @@ contents:
 
 <div class='row'>
 	<div class='col-xs-12 col-md-9'>
-		Industrial Stormwater General Permits (ISGPs) are required for applicable industrial facilities that contribute pollutants to stormwater runoff that flows into surface water bodies. Use the flow chart to determine if your facility needs ISGP coverage.
+		Industrial Stormwater General Permits (ISGPs) are required for applicable industrial facilities that contribute pollutants to stormwater runoff that flows into surface water bodies. Use the flow chart in the permit assistance sheet to identify if your facility needs ISGP coverage.
 
 		Ecology also issues permits for Construction, Municipalities, Sand and Gravel operations, and Boatyards. See <a href='https://ecology.wa.gov/Regulations-Permits/Permits-certifications/Stormwater-general-permits'>Ecology’s website</a> for more information on these permits.
 	</div>
 	<div class='col-xs-12 col-md-3'>
-		<img class='img-responsive' alt='Assistance flow chart' src='{{ site.url }}/assets/img/permit_flow_chart.JPG'>
+		<img class='img-responsive' alt='Assistance flow chart' src='{{ site.url }}/assets/img/do_i_need_a_permit.png'>
 		<a href='{{ site.url }}/assets/pdf/ISCOI_permitsheet_1_permit_FINAL.pdf'>Permit Assistance Sheet [PDF]</a>
 	</div>
 </div>
 
 ## Managing your permit
-Understanding the Industrial Stormwater General Permit can be difficult for even the seasoned stormwater professional. The ISCOI has prepared information to help navigate some of the more daunting requirements within the permit.
+Understanding the Industrial Stormwater General Permit can be difficult for even the seasoned stormwater professional. The SCOI has prepared information to help navigate some of the more daunting requirements within the permit.
 
 - [Stormwater Pollution Prevention Plan (SWPPP)](swppp) – The SWPPP is a record of what is on your site and a guidebook of practices that you will use to prevent pollution from entering your stormwater system.
 - [Employee Training](employee_training) – Training your employees on their role in preventing contamination of stormwater can be a key piece in avoiding costly mistakes and problems.

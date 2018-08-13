@@ -14,8 +14,8 @@ contents:
 
 Any business can make changes at their site to help manage and improve their stormwater runoff, even if they aren’t required to as part of a permit. It can be as simple as reminding staff to avoid putting anything but clean rainwater down storm drains, or something more complex like installing a stormwater treatment system. But how do you know what is right for your site? Or how can you find out what other businesses have done to help manage their stormwater? We have compiled resources to help you:
 
-- Receive assistance through our [Stormwater Opportunity Fund](#SOF) grant
-- Read our [Company Spotlights](#CS) to hear about the successes and challenges of some of your neighbor’s facilities
+- Receive assistance through our Stormwater Opportunity Fund grant
+- Read our Company Spotlights to hear about the successes and challenges of some of your neighbor’s facilities
 - Attend networking and educational workshops
 
 ### <a name='SOF'></a>Stormwater Opportunity Fund
@@ -26,7 +26,7 @@ The Stormwater Opportunity Fund is available to businesses in the Puyallup River
 
 There are many different types of businesses in Tacoma’s industrial areas that provide products and services that are vital to our economy and our way of life. While the business types may vary, they often face similar challenges in managing their stormwater and meeting the strict environmental regulations. The Company Spotlights were prepared to showcase the efforts made by nearby businesses and to share information on what they’ve found to be effective, or not so effective, in addressing their stormwater challenges. Check back as we will be adding more Company Spotlights in the weeks to come.
 
-- [Associated Petroleum Products](#)
+- [Associated Petroleum Products](/assets/pdf/ISCOI_CompanySpotlight_Final_APP.pdf)
 
 ### <a name='WS'></a>Workshops
 

@@ -6,3 +6,5 @@ contents:
 ---
 
 ## Employee Training
+
+This page is under development.
