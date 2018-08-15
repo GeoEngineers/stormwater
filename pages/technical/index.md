@@ -26,12 +26,12 @@ contents:
 Understanding the Industrial Stormwater General Permit can be difficult for even the seasoned stormwater professional. The SCOI has prepared information to help navigate some of the more daunting requirements within the permit.
 
 - [Stormwater Pollution Prevention Plan (SWPPP)](swppp) – The SWPPP is a record of what is on your site and a guidebook of practices that you will use to prevent pollution from entering your stormwater system.
-- [Employee Training](employee_training) – Training your employees on their role in preventing contamination of stormwater can be a key piece in avoiding costly mistakes and problems.
-- [Recordkeeping and Documentation [PDF]](../../assets/pdf/scoi_permitsheet_2_recordkeeping.pdf) – Knowing which records you need to keep and when you need to produce and update key documents is key in meeting your permit requirements.
+<!-- - [Employee Training](employee_training) – Training your employees on their role in preventing contamination of stormwater can be a key piece in avoiding costly mistakes and problems. -->
+- [Recordkeeping and Documentation [PDF]]({{site.url}}/assets/pdf/scoi_permitsheet_2_recordkeeping.pdf) – Knowing which records you need to keep and when you need to produce and update key documents is key in meeting your permit requirements.
 - [Inspections](inspections) – The ISGP requires that you do self-inspections of your property as well as comply with inspections conducted by Ecology. You may also be subject to inspection by other entities such as your local municipalities.
 - [Best Management Practices](bmp) – Best Management Practices (BMPs) are used to eliminate or reduce the potential to contaminate stormwater. Certain BMPs may be mandatory under your permit.
-- [Stormwater Sampling [PDF]](../../assets/pdf/scoi_permitsheet_3_sampling.pdf) – Collecting accurate and representative samples is an essential component of complying with your permit.  
-- [Corrective Actions [PDF]](../../assets/pdf/scoi_permitsheet_4_corrective.pdf) – If you exceed your benchmark for any permit required parameter you will need to implement a corrective action. The type of corrective action you need to implement will depend on the number of exceedances you’ve had within the calendar year.
+- [Stormwater Sampling [PDF]]({{site.url}}/assets/pdf/scoi_permitsheet_3_sampling.pdf) – Collecting accurate and representative samples is an essential component of complying with your permit.  
+- [Corrective Actions [PDF]]({{site.url}}/assets/pdf/scoi_permitsheet_4_corrective.pdf) – If you exceed your benchmark for any permit required parameter you will need to implement a corrective action. The type of corrective action you need to implement will depend on the number of exceedances you’ve had within the calendar year.
 
 ## Identifying potential stormwater problems
 It is cheaper to identify and investigate issues with your stormwater as soon as they arise. Ignoring or delaying maintenance and repairs can lead to third party lawsuits or a mandate from Ecology to install a treatment systems. The Washington Stormwater Center has a [video](https://www.youtube.com/watch?v=gUqCEXb1-IQ) outlining site investigation and source tracing efforts you can take if you are concerned about your stormwater discharge or if you want to identify potential issues before they become a problem.

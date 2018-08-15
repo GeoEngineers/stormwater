@@ -17,6 +17,6 @@ contents:
 	</div>
 	<div class='col-xs-12 col-md-3'>
 		<img class='img-responsive' alt='Interactive Mapping Tool' src='{{ site.url }}/assets/img/mapping-application.png'>
-		<a href='{{ site.url }}/assets/pdf/ISCOI_permitsheet_1_permit_FINAL.pdf'>Interactive Mapping Tool</a>
+		<a href='https://wa-sw-ctr.maps.arcgis.com/apps/webappviewer/index.html?id=38162067e5d9447e84093add9389e25e'>Interactive Mapping Tool</a>
 	</div>
 </div>

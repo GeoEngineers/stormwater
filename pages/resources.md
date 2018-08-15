@@ -26,7 +26,7 @@ The Stormwater Opportunity Fund is available to businesses in the Puyallup River
 
 There are many different types of businesses in Tacoma’s industrial areas that provide products and services that are vital to our economy and our way of life. While the business types may vary, they often face similar challenges in managing their stormwater and meeting the strict environmental regulations. The Company Spotlights were prepared to showcase the efforts made by nearby businesses and to share information on what they’ve found to be effective, or not so effective, in addressing their stormwater challenges. Check back as we will be adding more Company Spotlights in the weeks to come.
 
-- [Associated Petroleum Products](/assets/pdf/ISCOI_CompanySpotlight_Final_APP.pdf)
+- [Associated Petroleum Products]({{site.url}}/assets/pdf/ISCOI_CompanySpotlight_Final_APP.pdf)
 
 ### <a name='WS'></a>Workshops
 
